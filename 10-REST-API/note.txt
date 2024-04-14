@@ -1,2 +1,9 @@
 RESTFULL API
 
+SSR => Server Side rendering
+JSON =>
+XML
+
+
+
+
