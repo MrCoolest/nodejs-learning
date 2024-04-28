@@ -1,5 +1,4 @@
 const express = require('express');
-const { route } = require('./url');
 const URL = require('../models/url');
 const { getUser } = require('../service/auth');
 
