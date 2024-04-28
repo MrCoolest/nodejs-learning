@@ -1,0 +1,5 @@
+Authentication Pattern
+
+1) stateFull :- Which maintains state or data or server side
+2) stateLess :- Which has no state
+
